@@ -1,6 +1,6 @@
 
 module CHttpParser [system] {
     header "../http_parser.h"
-    link "http-parser"
+    link "httpparser"
     export *
 }
